@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        td:nth-child(even), th:nth-child(even) {
+  background-color: #D6EEEE;
+}
+        </style>
+</head>
+<body>
+
+        <div style="text-align: center; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; "><h2>Response Raw Data</h2></div>
+        <table style="text-align: center; margin: 0 auto; margin-top: 30px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+            <thead>
+              <tr >
+                {% for header in df.0 %}
+                  <th style="width: 200px; height: 40px; text-align:center">{{ header }}</th>
+                {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in df %}
+                <tr>
+                  {% for key, value in row.items %}
+                    <td style="width: 200px; height: 40px; text-align:center">{{ value }}</td>
+                  {% endfor %}
+                </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+        
+</body>
+</html>

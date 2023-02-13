@@ -1,0 +1,193 @@
+WARNING:django.request:Not Found: /favicon.ico/
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hii
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+ERROR:root:API Request made to URL: hellow
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:django.utils.autoreload:/home/bibek/Desktop/Plutonic/apitest/views.py changed, reloading.
+INFO:django.utils.autoreload:/home/bibek/Desktop/Plutonic/apitest/views.py changed, reloading.
+INFO:django.utils.autoreload:/home/bibek/Desktop/Plutonic/apitest/views.py changed, reloading.
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Request made on time: 2023-02-12 17:20:48.894395+00:00
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:django.utils.autoreload:/home/bibek/Desktop/Plutonic/apitest/views.py changed, reloading.
+ERROR:root:API Request made to URL: hellow
+INFO:root:API Request made on time: 2023-02-12 17:21:38.087231+00:00
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Request made on time: 2023-02-12 17:22:52.334596+00:00
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+ERROR:root:API Request made to URL: hii
+INFO:root:API Request made on time: 2023-02-12 17:23:05.022688+00:00
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+WARNING:django.request:Not Found: /favicon.ico/
+ERROR:root:API Request made to URL: hellow
+INFO:root:API Request made on time: 2023-02-13 04:27:24.936795+00:00
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Request made on time: 2023-02-13 04:27:33.534722+00:00
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Request made on time: 2023-02-13 04:28:07.165704+00:00
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
+ERROR:root:API Request made to URL: hey
+INFO:root:API Request made on time: 2023-02-13 04:28:17.791062+00:00
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+ERROR:root:API Request made to URL: hellow
+INFO:root:API Request made on time: 2023-02-13 04:28:47.454077+00:00
+ERROR:root:API Response Status code: 404
+ERROR:root:API Response Content: Invalid API
+INFO:root:API Request made to URL: http://localhost:8000/testdata/api/
+INFO:root:API Request made on time: 2023-02-13 04:36:21.689096+00:00
+INFO:root:API Response Status code: 200
+INFO:root:API Response Content: b'[{"id":1,"name":"ram","address":"newroad","number":null,"age":21},{"id":2,"name":"shyam","address":null,"number":9812345678,"age":null},{"id":3,"name":"sita","address":null,"number":null,"age":22}]'
